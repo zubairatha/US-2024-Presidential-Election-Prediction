@@ -1,0 +1,6 @@
+Model,MAE_Harris,MAE_Trump,State_Accuracy
+Baseline Model (Bayesian),63.0,63.0,0
+LinearRegression,21.0,23.0,1
+RandomForest,41.0,43.0,1
+DecisionTree,41.0,43.0,1
+XGBoost,41.0,43.0,1

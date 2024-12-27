@@ -1,0 +1,12 @@
+Model: XGBoost
+Overall MAE: 5.511794503703364
+Classification Report:
+              precision    recall  f1-score   support
+
+         DEM       0.74      0.81      0.77        73
+         REP       0.88      0.83      0.85       122
+
+    accuracy                           0.82       195
+   macro avg       0.81      0.82      0.81       195
+weighted avg       0.83      0.82      0.82       195
+

@@ -1,0 +1,5 @@
+Model,Harris (DEM),Trump (REP),Margin of Victory,Winner
+LinearRegression,247,289,42,Trump
+RandomForest,267,269,2,Trump
+DecisionTree,267,269,2,Trump
+XGBoost,267,269,2,Trump

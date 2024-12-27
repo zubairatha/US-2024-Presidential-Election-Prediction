@@ -1,0 +1,12 @@
+Model: RandomForest
+Overall MAE: 4.084182008550929
+Classification Report:
+              precision    recall  f1-score   support
+
+         DEM       0.85      0.88      0.86        73
+         REP       0.93      0.91      0.92       122
+
+    accuracy                           0.90       195
+   macro avg       0.89      0.89      0.89       195
+weighted avg       0.90      0.90      0.90       195
+

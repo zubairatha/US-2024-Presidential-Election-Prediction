@@ -1,0 +1,12 @@
+Model: LinearRegression
+Overall MAE: 3.9962806487924802
+Classification Report:
+              precision    recall  f1-score   support
+
+         DEM       0.89      0.86      0.88        73
+         REP       0.92      0.93      0.93       122
+
+    accuracy                           0.91       195
+   macro avg       0.90      0.90      0.90       195
+weighted avg       0.91      0.91      0.91       195
+
