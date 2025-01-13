@@ -28,6 +28,9 @@ After cleaning and preprocessing, the final dataset contained 136,392 samples.
 - Integrated datasets from various sources to create a comprehensive view of electoral patterns.
 - Removed duplicates and null values to ensure data consistency across all cycles.
 
+### **Exploratory Data Analysis**
+- Check ```EDA.pdf```
+
 ### **Feature Engineering**
 We engineered features to enhance model performance:
 - *Party Affiliation*: Democratic or Republican.
